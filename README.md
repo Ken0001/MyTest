@@ -1,5 +1,6 @@
 # MyTest
 This is a test
-"""python
-  print
-"""
+
+```python
+  print("Hello")
+```
